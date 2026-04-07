@@ -2,6 +2,8 @@
 
 A modular toolkit for LDAP enumeration and Nmap-based credential testing in Active Directory environments.
 
+![LdapRecoxX](https://github.com/user-attachments/assets/d181b503-1aa9-4f1e-991e-283a62e5ccc8) <br/>
+
 ---
 
 ## 🚀 Features
